@@ -1,0 +1,53 @@
+{
+    "id": 6,
+    "name": "Miles Davis",
+    "category": 2,
+    "subcategory": 2.2,
+    "genres": ["Jazz", "Bebop", "Cool Jazz", "Hard Bop", "Modal Jazz", "Jazz Fusion"],
+    "origin": "Alton, Illinois, USA",
+    "years_active": "1944-1991",
+    "label": ["Prestige Records", "Columbia Records", "Warner Bros. Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "Miles Davis",
+        "role": "Trumpet, bandleader, composer",
+        "date_of_birth": "1926-05-26",
+        "date_of_death": "1991-09-28"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Kind of Blue",
+        "release_year": 1959,
+        "songs": ["So What", "Freddie Freeloader", "Blue in Green"]
+      },
+      {
+        "title": "Bitches Brew",
+        "release_year": 1970,
+        "songs": ["Pharaoh's Dance", "Bitches Brew", "John McLaughlin"]
+      },
+      {
+        "title": "Sketches of Spain",
+        "release_year": 1960,
+        "songs": ["Concierto de Aranjuez", "Will o' the Wisp", "The Pan Piper"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Lifetime Achievement Award",
+        "year": 1990
+      },
+      {
+        "title": "Rock and Roll Hall of Fame Inductee",
+        "year": 2006
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/milesdavis",
+      "youtube": "https://youtube.com/milesdavis"
+    },
+    "official_website": "https://www.milesdavis.com"
+  }
+  

@@ -1,0 +1,54 @@
+{
+    "id": 23,
+    "name": "Philip Glass",
+    "category": 5,
+    "subcategory": 5.3,
+    "genres": ["Classical", "Minimalism"],
+    "origin": "Baltimore, Maryland, USA",
+    "years_active": "1965-present",
+    "label": ["Nonesuch Records", "Orange Mountain Music"],
+    "image": "",
+    "members": [
+      {
+        "name": "Philip Glass",
+        "role": "Composer, Pianist",
+        "date_of_birth": "1937-01-31"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Einstein on the Beach",
+        "release_year": 1976,
+        "songs": ["Train", "Spaceship", "Knee Play"]
+      },
+      {
+        "title": "Glassworks",
+        "release_year": 1982,
+        "songs": ["Opening", "Floe", "Façades"]
+      },
+      {
+        "title": "The Hours (Soundtrack)",
+        "release_year": 2002,
+        "songs": ["The Poet Acts", "Morning Passages", "Something She Has to Do"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Golden Globe Award for Best Original Score",
+        "year": 2003,
+        "work": "The Hours"
+      },
+      {
+        "title": "Academy Award Nomination",
+        "year": 1999,
+        "work": "The Thin Red Line"
+      }
+    ],
+    "social_media": {
+      "twitter": null,
+      "youtube": null
+    },
+    "official_website": "https://www.philipglass.com"
+  }
+  

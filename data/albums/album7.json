@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 7,
+      "name": "John Coltrane",
+      "category": 2,
+      "subcategory": 2.3,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "A Love Supreme",
+          "releaseYear": 1965,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Acknowledgement",
+            "Resolution",
+            "Pursuance",
+            "Psalm",
+            "My Favorite Things",
+            "Chasin' the Trane",
+            "Acknowledgement (Live)",
+            "Pursuance (Live)",
+            "Psalm (Live)",
+            "Spritual"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "Giant Steps",
+          "releaseYear": 1960,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Giant Steps",
+            "Cousin Mary",
+            "Countdown",
+            "Spiral",
+            "Syeeda's Song Flute",
+            "Naima",
+            "Mr. P.C.",
+            "Aisha",
+            "The Day and the Night",
+            "Syeeda's Song Flute (Alternate Take)"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "Blue Train",
+          "releaseYear": 1957,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Blue Train",
+            "Moment's Notice",
+            "Locomotion",
+            "I Wish I Knew",
+            "Sassy",
+            "The Believer",
+            "The Way You Look Tonight",
+            "Just Friends",
+            "Giant Steps",
+            "Dahomey Dance"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "Olé Coltrane",
+          "releaseYear": 1961,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Olé",
+            "Africa",
+            "Song of the Underground Railroad",
+            "A Love Supreme",
+            "Crescent",
+            "Acknowledgement",
+            "Resolution",
+            "Pursuance",
+            "Psalm",
+            "My Favorite Things"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "Impressions",
+          "releaseYear": 1963,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Impressions",
+            "India",
+            "My Favorite Things",
+            "Spiritual",
+            "A Love Supreme",
+            "Blue Train",
+            "Naima",
+            "Giant Steps",
+            "Countdown",
+            "Chasin' the Trane"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "Live at Birdland",
+          "releaseYear": 1964,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Afro Blue",
+            "I Want to Talk About You",
+            "A Love Supreme",
+            "Giant Steps",
+            "My Favorite Things",
+            "Blue Train",
+            "Moment's Notice",
+            "Impressions",
+            "Naima",
+            "Aisha"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "Meditations",
+          "releaseYear": 1966,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "The Father and the Son and the Holy Ghost",
+            "Compassion",
+            "Love",
+            "Baal",
+            "Joy",
+            "Amen",
+            "The Promise",
+            "Meditations",
+            "A Love Supreme",
+            "Acknowledgement"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "Ascension",
+          "releaseYear": 1966,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Ascension, Pt. 1",
+            "Ascension, Pt. 2",
+            "Ascension, Pt. 3",
+            "Ascension, Pt. 4",
+            "Ascension, Pt. 5",
+            "Ascension, Pt. 6",
+            "Ascension, Pt. 7",
+            "Ascension, Pt. 8",
+            "Ascension, Pt. 9",
+            "Ascension, Pt. 10"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "Ballads",
+          "releaseYear": 1962,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "My One and Only Love",
+            "I Wish I Knew",
+            "Naima",
+            "Out of This World",
+            "Aisha",
+            "The Very Thought of You",
+            "A Love Supreme",
+            "Blue Train",
+            "Giant Steps",
+            "Moment's Notice"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "The John Coltrane Quartet Plays",
+          "releaseYear": 1965,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "India",
+            "A Love Supreme",
+            "Afro Blue",
+            "My Favorite Things",
+            "Chasin' the Trane",
+            "Giant Steps",
+            "Naima",
+            "Spiritual",
+            "Blue Train",
+            "Impressions"
+          ]
+        }
+      ]
+    }
+  }
+  

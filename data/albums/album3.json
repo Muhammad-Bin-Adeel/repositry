@@ -1,0 +1,118 @@
+{
+    "artist": {
+        "id": 3,
+        "name": "The Strokes",
+        "category": 1,
+        "subcategory": 1.5,
+        "albums": [
+            {
+                "albumId": 1,
+                "albumName": "Is This It",
+                "releaseYear": 2001,
+                "image": "/images/albums/Is This It.webp",
+                "songs": [
+                    "Last Nite",
+                    "Someday",
+                    "Hard to Explain",
+                    "The Modern Age",
+                    "Barely Legal",
+                    "New York City Cops",
+                    "Alone, Together",
+                    "Take It or Leave It",
+                    "Trying Your Luck",
+                    "Is This It"
+                ]
+            },
+            {
+                "albumId": 2,
+                "albumName": "Room on Fire",
+                "releaseYear": 2003,
+                "image": "/images/albums/Room on Fire.jpg",
+                "songs": [
+                    "Reptilia",
+                    "12:51",
+                    "Under Control",
+                    "The End Has No End",
+                    "Meet Me in the Bathroom",
+                    "You Talk Way Too Much",
+                    "Between Love & Hate",
+                    "What Ever Happened?",
+                    "Automatic Stop",
+                    "I Can't Win"
+                ]
+            },
+            {
+                "albumId": 3,
+                "albumName": "First Impressions of Earth",
+                "releaseYear": 2006,
+                "image": "/images/albums/First Impressions of Earth.jpg",
+                "songs": [
+                    "Juicebox",
+                    "Heart in a Cage",
+                    "Razorblade",
+                    "On the Other Side",
+                    "Vision of Division",
+                    "Ask Me Anything",
+                    "Electricityscape",
+                    "Fear of Sleep",
+                    "Red Light",
+                    "Evening Sun"
+                ]
+            },
+            {
+                "albumId": 4,
+                "albumName": "Angles",
+                "releaseYear": 2011,
+                "image": "/images/albums/angles.jpg",
+                "songs": [
+                    "Machu Picchu",
+                    "Under Cover of Darkness",
+                    "You're So Right",
+                    "Taken for a Fool",
+                    "Games",
+                    "Call Me Back",
+                    "Gratisfaction",
+                    "Metabolism",
+                    "Two Kinds of Happiness",
+                    "Life Is Simple in the Moonlight"
+                ]
+            },
+            {
+                "albumId": 5,
+                "albumName": "Comedown Machine",
+                "releaseYear": 2013,
+                "image": "/images/albums/Comedown Machine.jpg",
+                "songs": [
+                    "Tap Out",
+                    "All the Time",
+                    "One Way Trigger",
+                    "Welcome to Japan",
+                    "80's Comedown Machine",
+                    "50/50",
+                    "Slow Animals",
+                    "Partners in Crime",
+                    "Chances",
+                    "Call It Fate, Call It Karma"
+                ]
+            },
+            {
+                "albumId": 6,
+                "albumName": "The New Abnormal",
+                "releaseYear": 2020,
+                "image": "/images/albums/The New Abnormal.jpg",
+                "songs": [
+                    "The Adults Are Talking",
+                    "Selfless",
+                    "Brooklyn Bridge to Chorus",
+                    "Bad Decisions",
+                    "Eternal Summer",
+                    "At the Door",
+                    "Why Are Sundays So Depressing",
+                    "Not the Same Anymore",
+                    "Ode to the Mets",
+                    "Endless City Lights"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 24,
+    "name": "Wolfgang Amadeus Mozart",
+    "category": 5,
+    "subcategory": 5.4,
+    "genres": ["Classical", "Opera", "Symphony"],
+    "origin": "Salzburg, Austria",
+    "years_active": "1761-1791",
+    "label": ["Various Classical Labels"],
+    "image": "",
+    "members": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "role": "Composer, Pianist",
+        "date_of_birth": "1756-01-27",
+        "date_of_death": "1791-12-05"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "The Magic Flute",
+        "release_year": 1791,
+        "songs": ["Der Hölle Rache", "Ach, ich fühl's", "Papageno/Papagena"]
+      },
+      {
+        "title": "Requiem",
+        "release_year": 1791,
+        "songs": ["Lacrimosa", "Confutatis", "Dies irae"]
+      },
+      {
+        "title": "Symphony No. 40",
+        "release_year": 1788,
+        "songs": ["Molto Allegro", "Andante", "Menuetto"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Posthumous Recognition",
+        "year": "N/A",
+        "event": "One of the most celebrated composers in Western music history"
+      }
+    ],
+    "social_media": {
+      "twitter": null,
+      "youtube": null
+    },
+    "official_website": null
+  }
+  

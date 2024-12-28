@@ -1,0 +1,95 @@
+/* Custom styles for the carousel height */
+/* .carousel {
+    height: calc(100vh - 64px); /* Full height minus header height
+} */
+
+#ad-header {
+    position: absolute;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0.7;
+    z-index: 5;
+    background-color: rgba(0, 0, 0, 1);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+/* Example CSS animations */
+.fade-in { animation: fadeIn 1s ease-in-out; }
+.slide-in { animation: slideIn 1s ease-in-out; }
+.zoom-in { animation: zoomIn 1s ease-in-out; }
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+@keyframes slideIn {
+    from { transform: translateX(-100%); }
+    to { transform: translateX(0); }
+}
+@keyframes zoomIn {
+    from { transform: scale(0.5); }
+    to { transform: scale(1); }
+}
+
+.bg-pattern {
+    background-image: url('/images/background-picture/1-image.jpg');
+    background-attachment: fixed; /* This makes it parallax */
+    background-color: #1a202c; /* Fallback background color */
+    color: white;
+  }
+  .back-table{
+    background-image: url('/images/background-picture/1-image.jpg'); /* Replace with path to your image */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center top;
+    background-repeat: no-repeat;
+    animation: parallaxScroll 5s linear infinite; /* Adjust the speed with the duration (15s) */
+}
+@keyframes parallaxScroll {
+    from {
+        background-position-y: 0;
+    }
+    to {
+        background-position-y: 100px; /* Adjust this for more or less scrolling */
+    }
+}
+
+.back-songs{
+    background-image: url('/images/background-picture/3-image.jpg'); /* Replace with path to your image */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center top;
+    background-repeat: no-repeat;
+    animation: parallaxScroll 5s linear infinite; /* Adjust the speed with the duration (15s) */
+}
+
+
+.back-artists{
+    background-image: url('/images/background-picture/4-image.jpg'); /* Replace with path to your image */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center top;
+    background-repeat: no-repeat;
+    animation: parallaxScroll 5s linear infinite; /* Adjust the speed with the duration (15s) */
+}
+
+.back-albums{
+    background-image: url('/images/background-picture/new-1.jpg'); /* Replace with path to your image */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center top;
+    background-repeat: no-repeat;
+    animation: parallaxScroll 5s linear infinite; /* Adjust the speed with the duration (15s) */
+}

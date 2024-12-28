@@ -1,0 +1,249 @@
+[
+  {
+    "albumId": 1,
+    "albumName": "Bleach",
+    "releaseYear": 1989,
+    "image": "/images/albums/Bleach.jpg",
+    "artist": {
+      "id": 1,
+      "name": "Nirvana",
+      "category": 1,
+      "subcategory": 1.1
+    },
+    "songs": [
+      "Blew",
+      "Floyd the Barber",
+      "About a Girl",
+      "School",
+      "Love Buzz",
+      "Paper Cuts",
+      "Negative Creep",
+      "Scoff",
+      "Swap Meet",
+      "Mr. Moustache"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "Led Zeppelin",
+    "releaseYear": 1969,
+    "image": "/images/albums/falstaff.jpg",
+    "artist": {
+      "id": 2,
+      "name": "Led Zeppelin",
+      "category": 1,
+      "subcategory": 1.3
+    },
+    "songs": [
+      "Good Times Bad Times",
+      "Babe I'm Gonna Leave You",
+      "You Shook Me",
+      "Dazed and Confused",
+      "Your Time Is Gonna Come",
+      "Black Mountain Side",
+      "Communication Breakdown",
+      "I Can't Quit You Baby",
+      "How Many More Times",
+      "The Girl I Love She Got Long Black Wavy Hair"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "Is This It",
+    "releaseYear": 2001,
+    "image": "/images/albums/is-this-it.webp",
+    "artist": {
+      "id": 3,
+      "name": "The Strokes",
+      "category": 1,
+      "subcategory": 1.5
+    },
+    "songs": [
+      "Last Nite",
+      "Someday",
+      "Hard to Explain",
+      "The Modern Age",
+      "Barely Legal",
+      "New York City Cops",
+      "Alone, Together",
+      "Take It or Leave It",
+      "Trying Your Luck",
+      "Is This It"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "Dookie",
+    "releaseYear": 1994,
+    "image": "/images/albums/fly-on-the-wall.jpg",
+    "artist": {
+      "id": 4,
+      "name": "Green Day",
+      "category": 1,
+      "subcategory": 1.4
+    },
+    "songs": [
+      "Burnout",
+      "Having a Blast",
+      "Chump",
+      "Longview",
+      "Welcome to Paradise",
+      "Pulling Teeth",
+      "Basket Case",
+      "She",
+      "Sassafras Roots",
+      "When I Come Around"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "High Voltage",
+    "releaseYear": 1975,
+    "image": "/images/albums/High-Voltage.jpg",
+    "artist": {
+      "id": 5,
+      "name": "AC/DC",
+      "category": 1,
+      "subcategory": 1.2
+     
+    },
+    "songs": [
+      "Baby, Please Don't Go",
+      "She's Got Balls",
+      "Little Lover",
+      "Stick Around",
+      "Soul Stripper",
+      "You Ain't Got a Hold on Me",
+      "Love Song",
+      "Show Business",
+      "High Voltage",
+      "Rock and Roll Singer"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "Kind of Blue",
+    "releaseYear": 1959,
+    "image": "/images/albums/glassworks.jpg",
+    "artist": {
+      "id": 6,
+      "name": "Miles Davis",
+      "category": 2,
+      "subcategory": 2.2
+    },
+    "songs": [
+      "So What",
+      "Freddie Freeloader",
+      "Blue in Green",
+      "All Blues",
+      "Flamenco Sketches",
+      "Round Midnight",
+      "The Theme",
+      "Stella by Starlight",
+      "On Green Dolphin Street",
+      "Bye Bye Blackbird"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "A Love Supreme",
+    "releaseYear": 1965,
+    "image": "/images/albums/coda.jpg",
+    "artist": {
+      "id": 7,
+      "name": "John Coltrane",
+      "category": 2,
+      "subcategory": 2.3
+      
+    },
+    "songs": [
+      "Acknowledgement",
+      "Resolution",
+      "Pursuance",
+      "Psalm",
+      "My Favorite Things",
+      "Chasin' the Trane",
+      "Acknowledgement (Live)",
+      "Pursuance (Live)",
+      "Psalm (Live)",
+      "Spritual"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "Head Hunters",
+    "releaseYear": 1973,
+    "image": "/images/albums/Dookie.jpg",
+    "artist": {
+      "id": 8,
+      "name": "Herbie Hancock",
+      "category": 2,
+      "subcategory": 2.4
+      
+    },
+    "songs": [
+      "Chameleon",
+      "Watermelon Man",
+      "Sly",
+      "Vein Melter",
+      "Actual Proof",
+      "Butterfly",
+      "Spiderweb",
+      "Doin' It",
+      "Succotash",
+      "Palm Grease"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "Getz/Gilberto",
+    "releaseYear": 1964,
+    "image": "/images/albums/aida.jpg",
+    "artist": {
+      "id": 9,
+      "name": "Stan Getz",
+      "category": 2,
+      "subcategory": 2.5
+      
+    },
+    "songs": [
+      "The Girl from Ipanema",
+      "Corcovado",
+      "Desafinado",
+      "So Danço Samba",
+      "O Grande Amor",
+      "Vivo Sonhando",
+      "Garota de Ipanema",
+      "Um Abraco No Bonfá",
+      "Meditation",
+      "Samba de Uma Nota Só"
+    ]
+  },
+  {
+    "albumId": 1,
+    "albumName": "Duotones",
+    "releaseYear": 1986,
+    "image": "/images/albums/cello-suites.jpg",
+    "artist": {
+      "id": 10,
+      "name": "Kenny G",
+      "category": 2,
+      "subcategory": 2.1      
+    },
+    "songs": [
+      "Songbird",
+      "Midnight Motion",
+      "The Moment",
+      "Don't Make Me Wait for Love",
+      "Sister Rose",
+      "Estrellita",
+      "Just the Way You Are",
+      "Loving You",
+      "My Heart Will Go On",
+      "The Tenth World"
+    ]
+  }
+
+  
+  
+]

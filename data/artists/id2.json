@@ -1,0 +1,65 @@
+{
+    "id": 2,
+    "name": "Led Zeppelin",
+    "category": 1,
+    "subcategory": 1.3,
+    "genres": ["Hard Rock", "Blues Rock", "Heavy Metal"],
+    "origin": "London, England",
+    "years_active": "1968-1980",
+    "label": ["Atlantic Records", "Swan Song Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "Robert Plant",
+        "role": "Lead vocals",
+        "date_of_birth": "1948-08-20"
+      },
+      {
+        "name": "Jimmy Page",
+        "role": "Guitar",
+        "date_of_birth": "1944-01-09"
+      },
+      {
+        "name": "John Paul Jones",
+        "role": "Bass guitar, keyboards",
+        "date_of_birth": "1946-01-03"
+      },
+      {
+        "name": "John Bonham",
+        "role": "Drums",
+        "date_of_birth": "1948-05-31",
+        "date_of_death": "1980-09-25"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Led Zeppelin",
+        "release_year": 1969,
+        "songs": ["Good Times Bad Times", "Dazed and Confused"]
+      },
+      {
+        "title": "Led Zeppelin II",
+        "release_year": 1969,
+        "songs": ["Whole Lotta Love", "Ramble On"]
+      },
+      {
+        "title": "Led Zeppelin IV",
+        "release_year": 1971,
+        "songs": ["Stairway to Heaven", "Black Dog", "Rock and Roll"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Lifetime Achievement Award",
+        "year": 2005
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/ledzeppelin",
+      "youtube": "https://youtube.com/ledzeppelin"
+    },
+    "official_website": "https://www.ledzeppelin.com"
+  
+  }
+  

@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "event_name": "Summer Music Festival",
+        "date": "2024-06-15",
+        "location": "Central Park, New York, NY",
+        "artists": ["The Weeknd", "Dua Lipa", "Post Malone"],
+        "ticket_price": 120.00,
+        "description": "Join us for a day of great music and fun in the sun with top artists performing live.",
+        "image": "./images/carousel/tony.jpg"
+    },
+    {
+        "id": 2,
+        "event_name": "Rock the World Tour",
+        "date": "2024-07-22",
+        "location": "Madison Square Garden, New York, NY",
+        "artists": ["Metallica", "Guns N' Roses"],
+        "ticket_price": 150.00,
+        "description": "Experience the electrifying performances of rock legends at the iconic Madison Square Garden.",
+        "image": "./images/carousel/pixel3.png"
+    },
+    {
+        "id": 3,
+        "event_name": "Jazz Nights",
+        "date": "2024-08-05",
+        "location": "Blue Note Jazz Club, New York, NY",
+        "artists": ["Herbie Hancock", "Chick Corea"],
+        "ticket_price": 75.00,
+        "description": "An intimate evening of smooth jazz featuring some of the best musicians in the industry.",
+        "image": "./images/carousel/pixel4.jpg"
+    },
+    {
+        "id": 4,
+        "event_name": "Hip-Hop Legends Concert",
+        "date": "2024-09-10",
+        "location": "Staples Center, Los Angeles, CA",
+        "artists": ["Dr. Dre", "Snoop Dogg", "Kendrick Lamar"],
+        "ticket_price": 140.00,
+        "description": "Celebrate hip-hop history with legendary artists performing their greatest hits.",
+        "image": "./images/carousel/pixel5.jpg"
+    },
+    {
+        "id": 5,
+        "event_name": "Classical Music Gala",
+        "date": "2024-10-20",
+        "location": "Carnegie Hall, New York, NY",
+        "artists": ["New York Philharmonic", "Yo-Yo Ma"],
+        "ticket_price": 200.00,
+        "description": "An elegant evening of classical music featuring renowned orchestras and soloists.",
+        "image": "./images/carousel/pixel6.jpg"
+    },
+    {
+        "id": 6,
+        "event_name": "EDM Night",
+        "date": "2024-11-02",
+        "location": "Electric Daisy Carnival, Las Vegas, NV",
+        "artists": ["Calvin Harris", "David Guetta", "Marshmello"],
+        "ticket_price": 180.00,
+        "description": "Dance the night away at the biggest EDM festival with world-famous DJs.",
+        "image": "./images/carousel/pixel7.avif"
+    },
+    {
+        "id": 7,
+        "event_name": "Indie Music Showcase",
+        "date": "2024-11-15",
+        "location": "The Troubadour, Los Angeles, CA",
+        "artists": ["Phoebe Bridgers", "Tame Impala"],
+        "ticket_price": 60.00,
+        "description": "Discover the next big stars in the indie music scene at this exclusive showcase.",
+        "image": "./images/carousel/pixel8.jpg"
+    },
+    {
+        "id": 8,
+        "event_name": "Reggae Fest",
+        "date": "2024-12-01",
+        "location": "Reggae on the River, California",
+        "artists": ["Damian Marley", "Bob Marley Tribute Band"],
+        "ticket_price": 90.00,
+        "description": "Enjoy a vibrant celebration of reggae music along the beautiful river.",
+        "image": "./images/carousel/pixel9.jpg"
+    },
+    {
+        "id": 9,
+        "event_name": "Pop Stars Unite",
+        "date": "2024-12-15",
+        "location": "Wembley Stadium, London",
+        "artists": ["Taylor Swift", "Ariana Grande", "Ed Sheeran"],
+        "ticket_price": 200.00,
+        "description": "A star-studded concert featuring your favorite pop icons on one stage.",
+        "image": "./images/carousel/pixel6.jpg"
+    },
+    {
+        "id": 10,
+        "event_name": "Country Music Festival",
+        "date": "2025-01-20",
+        "location": "Nashville, TN",
+        "artists": ["Luke Bryan", "Carrie Underwood", "Chris Stapleton"],
+        "ticket_price": 110.00,
+        "description": "Experience the best in country music at the heart of Nashville.",
+        "image": "./images/carousel/pixel3.png"
+    }
+]

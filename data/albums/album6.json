@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 6,
+      "name": "Miles Davis",
+      "category": 2,
+      "subcategory": 2.2,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "Kind of Blue",
+          "releaseYear": 1959,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "So What",
+            "Freddie Freeloader",
+            "Blue in Green",
+            "All Blues",
+            "Flamenco Sketches",
+            "Round Midnight",
+            "The Theme",
+            "Stella by Starlight",
+            "On Green Dolphin Street",
+            "Bye Bye Blackbird"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "Bitches Brew",
+          "releaseYear": 1970,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Pharaoh's Dance",
+            "Bitches Brew",
+            "Spanish Key",
+            "John McLaughlin",
+            "Miles Runs the Voodoo Down",
+            "Sanctuary",
+            "Great Expectations",
+            "The Riff",
+            "Teo",
+            "Far Wells, Mill Valley"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "Sketches of Spain",
+          "releaseYear": 1960,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Concierto de Aranjuez",
+            "Will O' the Wisp",
+            "The Pan Piper",
+            "Saeta",
+            "Song of the Barrow",
+            "Flamenco Sketches",
+            "Pavane",
+            "The Folks Who Live on the Hill",
+            "The Girl from Ipanema",
+            "Autumn Leaves"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "Miles Ahead",
+          "releaseYear": 1957,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Springsville",
+            "The Maids of Cadiz",
+            "The Duke",
+            "The Meaning of the Blues",
+            "Lament",
+            "New Rhumba",
+            "The Theme",
+            "I Can't Get Started",
+            "So What",
+            "Blues for Pablo"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "In a Silent Way",
+          "releaseYear": 1969,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Shhh/Peaceful",
+            "In a Silent Way",
+            "It's About That Time",
+            "Willie Nelson",
+            "The Wind",
+            "Inamorata and Narration",
+            "The Arrival",
+            "The Sound of Music",
+            "Falling",
+            "So What"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "Tutu",
+          "releaseYear": 1986,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Tutu",
+            "Splatch",
+            "Hannibal",
+            "Backyard Ritual",
+            "Round Midnight",
+            "I'll Be Around",
+            "One Phone Call",
+            "The Mating Call",
+            "The Man with the Horn",
+            "Don't Stop Me Now"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "A Tribute to Jack Johnson",
+          "releaseYear": 1971,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Right Off",
+            "Yesternow",
+            "Willie Nelson",
+            "A Tribute to Jack Johnson",
+            "The Theme",
+            "Sister Moon",
+            "The Man Who Smiled",
+            "Dancing",
+            "Sassy",
+            "Eagles"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "The Complete Birth of the Cool",
+          "releaseYear": 1957,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Move",
+            "Jeru",
+            "Venus de Milo",
+            "Budo",
+            "Deception",
+            "Godchild",
+            "Boplicity",
+            "Rising",
+            "Kuru",
+            "Sippin' at Bells"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "Porgy and Bess",
+          "releaseYear": 1959,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Summertime",
+            "It Ain't Necessarily So",
+            "Bess, You Is My Woman Now",
+            "My Man's Gone Now",
+            "I Got Plenty O' Nuttin'",
+            "A Woman Is a Sometime Thing",
+            "It Ain't Necessarily So",
+            "Here Come De Honey Man",
+            "Bess, You Is My Woman Now",
+            "Oh, Lawd, I'm on My Way"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "Four & More",
+          "releaseYear": 1966,
+          "image": "/images/albums/Four & More.jpg",
+          "songs": [
+            "So What",
+            "Walkin'",
+            "All Blues",
+            "Stella by Starlight",
+            "I Thought About You",
+            "Stratus",
+            "Footprints",
+            "Bitches Brew",
+            "Blue in Green",
+            "The Theme"
+          ]
+        }
+      ]
+    }
+  }
+  

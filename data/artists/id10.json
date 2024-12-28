@@ -1,0 +1,48 @@
+{
+    "id": 10,
+    "name": "Kenny G",
+    "category": 2,
+    "subcategory": 2.1,
+    "genres": ["Smooth Jazz", "Adult Contemporary", "Jazz Fusion"],
+    "origin": "Seattle, Washington, USA",
+    "years_active": "1973-present",
+    "label": ["Arista Records", "Concord Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "Kenny G",
+        "role": "Saxophone",
+        "date_of_birth": "1956-06-05"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Duotones",
+        "release_year": 1986,
+        "songs": ["Songbird", "Don't Make Me Wait for Love", "Midnight Motion"]
+      },
+      {
+        "title": "Breathless",
+        "release_year": 1992,
+        "songs": ["Forever in Love", "The Joy of Life", "By the Time This Night Is Over"]
+      },
+      {
+        "title": "Miracles: The Holiday Album",
+        "release_year": 1994,
+        "songs": ["Winter Wonderland", "Have Yourself a Merry Little Christmas", "Miracles"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Award for Best Instrumental Composition",
+        "year": 1994,
+        "song": "Forever in Love"
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/kennyg",
+      "youtube": "https://youtube.com/kennyg"
+    },
+    "official_website": "https://www.kennyg.com"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1,
+  "name": "Nirvana",
+  "category": 1,
+  "subcategory": 1.1,
+  "genres": ["Grunge", "Alternative Rock"],
+  "origin": "Aberdeen, Washington, USA",
+  "years_active": "1987-1994",
+  "label": ["Sub Pop", "DGC Records"],
+  "image": "",
+  "members": [
+    {
+      "name": "Kurt Cobain",
+      "role": "Lead vocals, guitar",
+      "date_of_birth": "1967-02-20",
+      "date_of_death": "1994-04-05"
+    },
+    {
+      "name": "Krist Novoselic",
+      "role": "Bass guitar",
+      "date_of_birth": "1965-05-16"
+    },
+    {
+      "name": "Dave Grohl",
+      "role": "Drums",
+      "date_of_birth": "1969-01-14"
+    }
+  ],
+  "former_members": [
+    {
+      "name": "Chad Channing",
+      "role": "Drums",
+      "years_active": "1988-1990"
+    }
+  ],
+  "discography": [
+    {
+      "title": "Bleach",
+      "release_year": 1989,
+      "songs": ["Blew", "Floyd the Barber", "About a Girl"]
+    },
+    {
+      "title": "Nevermind",
+      "release_year": 1991,
+      "songs": ["Smells Like Teen Spirit", "In Bloom", "Come as You Are"]
+    },
+    {
+      "title": "In Utero",
+      "release_year": 1993,
+      "songs": ["Heart-Shaped Box", "Rape Me", "All Apologies"]
+    }
+  ],
+  "notable_awards": [
+    {
+      "title": "Grammy Award for Best Alternative Music Album",
+      "year": 1996,
+      "album": "MTV Unplugged in New York"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/nirvana",
+    "youtube": "https://youtube.com/nirvana"
+  },
+  "official_website": "https://www.nirvana.com",
+  "band_details": [
+    {
+      "title": "Genre and Origins",
+      "description": "Nirvana pioneered the Grunge and Alternative Rock genres. Formed in Aberdeen, Washington, USA in 1987, the band brought an entirely new sound to the music world, merging raw emotion with hard-hitting rock."
+    },
+    {
+      "title": "Band Members",
+      "description": "Nirvana's lineup featured Kurt Cobain (lead vocals, guitar), Krist Novoselic (bass guitar), and Dave Grohl (drums). Kurt Cobain, born in 1967, was a major driving force of the band's unique style until his death in 1994."
+    },
+    {
+      "title": "Major Albums",
+      "description": "Nirvana’s discography includes three main studio albums: Bleach (1989), Nevermind (1991), and In Utero (1993). Nevermind brought Nirvana mainstream success with hits like 'Smells Like Teen Spirit' and solidified their place in music history."
+    },
+    {
+      "title": "Legacy and Awards",
+      "description": "Nirvana's MTV Unplugged performance in New York won a Grammy Award for Best Alternative Music Album in 1996. Their music continues to influence new generations, proving the lasting power of their work and impact on the rock genre."
+    },
+    {
+      "title": "Online Presence",
+      "description": "Nirvana's music and legacy live on through social media. Fans can connect and explore their legacy on platforms like Twitter (@Nirvana) and YouTube, as well as on their official website: www.nirvana.com."
+    }
+  ]
+}

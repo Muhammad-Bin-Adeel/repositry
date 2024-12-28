@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 4,
+      "name": "Green Day",
+      "category": 1,
+      "subcategory": 1.4,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "Dookie",
+          "releaseYear": 1994,
+          "image": "/images/albums/Dookie.jpg",
+          "songs": [
+            "Burnout",
+            "Having a Blast",
+            "Chump",
+            "Longview",
+            "Welcome to Paradise",
+            "Pulling Teeth",
+            "Basket Case",
+            "She",
+            "Sassafras Roots",
+            "When I Come Around"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "Insomniac",
+          "releaseYear": 1995,
+          "image": "/images/albums/Insomniac.jpg",
+          "songs": [
+            "Armatage Shanks",
+            "Brat",
+            "Stuck with Me",
+            "Taking Back Sunday",
+            "You Are My Window",
+            "F.O.D.",
+            "Nice Guys Finish Last",
+            "King for a Day",
+            "Like a Rolling Stone",
+            "Geek Stink Breath"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "Nimrod",
+          "releaseYear": 1997,
+          "image": "/images/albums/Nimrod.jpg",
+          "songs": [
+            "Nice Guys Finish Last",
+            "Hitchin' a Ride",
+            "The Grouch",
+            "Last Ride In",
+            "Jinx",
+            "Wake Me Up When September Ends",
+            "F.O.D.",
+            "King for a Day",
+            "Good Riddance (Time of Your Life)",
+            "Worry Rock"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "Warning",
+          "releaseYear": 2000,
+          "image": "/images/albums/Warning.jpg",
+          "songs": [
+            "Warning",
+            "Blood, Sex and Booze",
+            "Church on Sunday",
+            "Fashionably Late",
+            "Castaway",
+            "Misery",
+            "Deadbeat Holiday",
+            "Hold On",
+            "Jackass",
+            "Waiting"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "American Idiot",
+          "releaseYear": 2004,
+          "image": "/images/albums/American Idiot.jpg",
+          "songs": [
+            "American Idiot",
+            "Jesus of Suburbia",
+            "Holiday",
+            "Boulevard of Broken Dreams",
+            "Are We the Waiting",
+            "St. Jimmy",
+            "Give Me Novacaine",
+            "She's a Rebel",
+            "Extraordinary Girl",
+            "Wake Me Up When September Ends"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "21st Century Breakdown",
+          "releaseYear": 2009,
+          "image": "/images/albums/21st Century Breakdown.jpg",
+          "songs": [
+            "Song of the Century",
+            "21st Century Breakdown",
+            "Know Your Enemy",
+            "Viva La Gloria!",
+            "Before the Lobotomy",
+            "Christian's Inferno",
+            "Last Night on Earth",
+            "Macy's Day Parade",
+            "Peacemaker",
+            "American Eulogy"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "¡Uno!",
+          "releaseYear": 2012,
+          "image": "/images/albums/¡Uno!.jpg",
+          "songs": [
+            "Nuclear Family",
+            "Stay the Night",
+            "Carpe Diem",
+            "Let Yourself Go",
+            "Put Your Money Where Your Mouth Is",
+            "Meeting Engaged",
+            "Makeout Party",
+            "Stray Heart",
+            "The Forgotten",
+            "Kill the DJ"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "¡Dos!",
+          "releaseYear": 2012,
+          "image": "/images/albums/¡Dos!.jpg",
+          "songs": [
+            "See You Tonight",
+            "Fuck Time",
+            "Stop When the Red Lights Flash",
+            "Ashley",
+            "Baby Eyes",
+            "Lady Cobra",
+            "Nightlife",
+            "Stray Heart",
+            "Nuclear Family",
+            "Wild One"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "¡Tré!",
+          "releaseYear": 2013,
+          "image": "/images/albums/¡Tré!.jpg",
+          "songs": [
+            "Brutal Love",
+            "Missing You",
+            "8th Avenue Serenade",
+            "Sex, Drugs & Violence",
+            "Drama Queen",
+            "X-Kid",
+            "Walk Away",
+            "The Forgotten",
+            "99 Revolutions",
+            "Dirty Rotten Bastards"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "Revolution Radio",
+          "releaseYear": 2016,
+          "image": "/images/albums/Revolution Radio.jpg",
+          "songs": [
+            "Somewhere Now",
+            "Bang Bang",
+            "Revolution Radio",
+            "Say Goodbye",
+            "Outlaws",
+            "Bouncing Off the Walls",
+            "Still Breathing",
+            "Youngblood",
+            "Too Much Too Soon",
+            "Troubled Times"
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,34 @@
+{
+    "id": 11,
+    "name": "Taylor Swift",
+    "category": 3,
+    "subcategory": 3.3,
+    "formation": 2004,
+    "image": "",
+    "members": [
+      {
+        "name": "Taylor Swift",
+        "role": "Vocals, Guitar, Songwriter"
+      }
+    ],
+    "genres": ["Country", "Pop", "Indie Folk", "Synth-pop"],
+    "notable_albums": [
+      "Fearless",
+      "1989",
+      "Folklore",
+      "Evermore"
+    ],
+    "famous_songs": [
+      "Love Story",
+      "Shake It Off",
+      "Blank Space",
+      "Cardigan"
+    ],
+    "legacy": "Renowned for her narrative songwriting, she has become one of the most influential artists of her generation.",
+    "social_media": {
+      "twitter": "https://twitter.com/taylorswift13",
+      "instagram": "https://instagram.com/taylorswift"
+    },
+    "official_website": "https://www.taylorswift.com"
+  }
+  

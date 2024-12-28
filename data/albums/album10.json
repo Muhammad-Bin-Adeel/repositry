@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 10,
+      "name": "Kenny G",
+      "category": 2,
+      "subcategory": 2.1,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "Duotones",
+          "releaseYear": 1986,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Songbird",
+            "Midnight Motion",
+            "The Moment",
+            "Don't Make Me Wait for Love",
+            "Sister Rose",
+            "Estrellita",
+            "Just the Way You Are",
+            "Loving You",
+            "My Heart Will Go On",
+            "The Tenth World"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "Breathless",
+          "releaseYear": 1992,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Forever in Love",
+            "By the Time This Night Is Over",
+            "The Joy of Life",
+            "Dance With Me",
+            "How Could an Angel Break My Heart",
+            "Sentimental",
+            "The Way You Make Me Feel",
+            "In the Rain",
+            "My Heart Will Go On",
+            "A Song for You"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "The Moment",
+          "releaseYear": 1996,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "The Moment",
+            "The Way We Were",
+            "Havana",
+            "What Does It Take (To Win Your Love)",
+            "The Wedding Song",
+            "Somewhere Over the Rainbow",
+            "Innocence",
+            "A Year Ago",
+            "Forever in Love",
+            "Tears in Heaven"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "Classics in the Key of G",
+          "releaseYear": 1999,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Summertime",
+            "Dancing Queen",
+            "Over the Rainbow",
+            "A Whole New World",
+            "The Way You Look Tonight",
+            "What a Wonderful World",
+            "The Look of Love",
+            "As Time Goes By",
+            "Let It Be",
+            "The Girl from Ipanema"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "G Breathless",
+          "releaseYear": 1992,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Forever in Love",
+            "The Way We Were",
+            "What a Wonderful World",
+            "Somewhere Over the Rainbow",
+            "In the Rain",
+            "You Are So Beautiful",
+            "Songbird",
+            "I Will Always Love You",
+            "Don't Make Me Wait for Love",
+            "By the Time This Night Is Over"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "Faith",
+          "releaseYear": 1999,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "By the Time This Night Is Over",
+            "Dancing with My Father",
+            "The Wedding Song",
+            "I Will Always Love You",
+            "All the Way",
+            "Forever in Love",
+            "A Song for You",
+            "The Way We Were",
+            "When I Fall in Love",
+            "Somewhere in My Memory"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "Kenny G",
+          "releaseYear": 1982,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Songbird",
+            "Don't Make Me Wait for Love",
+            "Midnight Motion",
+            "Sister Rose",
+            "The Moment",
+            "Estrellita",
+            "Forever in Love",
+            "The Way You Look Tonight",
+            "Loving You",
+            "The Wedding Song"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "The Best of Kenny G",
+          "releaseYear": 2000,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Songbird",
+            "Forever in Love",
+            "The Wedding Song",
+            "What Does It Take (To Win Your Love)",
+            "Silhouette",
+            "Havana",
+            "The Way We Were",
+            "By the Time This Night Is Over",
+            "The Moment",
+            "Innocence"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "Rhythm and Romance",
+          "releaseYear": 2003,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Havana",
+            "Sunrise",
+            "I Want to Know What Love Is",
+            "What a Wonderful World",
+            "In the Rain",
+            "Sister Rose",
+            "My Heart Will Go On",
+            "Everlasting Love",
+            "The Way You Make Me Feel",
+            "Dancing with My Father"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "Namaste",
+          "releaseYear": 2007,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Sacred",
+            "Calm",
+            "Peace",
+            "Spirit",
+            "Heart",
+            "Love",
+            "Breathe",
+            "Joy",
+            "Harmony",
+            "Unity"
+          ]
+        }
+      ]
+    }
+  }
+  

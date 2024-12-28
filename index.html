@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music World</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/header.css" />
+    <link rel="stylesheet" href="./css/album-box.css" />
+    <link rel="stylesheet" href="./css/events.css" />
+
+    <link
+    rel="stylesheet"
+    href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+</head>
+
+<body class="bg-gray-900 overflow-x-hidden">
+    <!-- Header -->
+    <header id="ad-header" class="bg-gray-800 shadow">
+        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <!-- Logo -->
+            <div class="text-2xl font-bold text-white">
+                <img src="./images/logo.jpg" style="height: 55px;" />
+            </div>
+
+            <!-- Hamburger Menu Button (visible on mobile only) -->
+            <button id="menu-toggle" class="text-white md:hidden focus:outline-none">
+                <!-- Hamburger Icon -->
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7">
+                    </path>
+                </svg>
+            </button>
+
+            <!-- Desktop Navigation Menu (visible on medium and larger screens) -->
+            <nav id="nav-menu-desktop" class="space-x-8 hidden md:flex">
+                <!-- Menu Items -->
+                <div class="relative group">
+                    <a href="#err"
+                        class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">Home</a>
+                </div>
+                <div class="relative group">
+                    <a href="#album-start">
+                    <button class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">albums</a></button>
+                </div>
+                <div class="relative group">
+                    <a href="#Artist">
+                    <button class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">Artist</a></button>
+                </div>
+                <div class="relative group">
+                    <a href="#Songs">
+                    <button class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">Songs</a></button>
+                </div>
+                <div class="relative group">
+                    <a href="#events-table"
+                        class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">Events</a>
+                </div>
+               
+            </nav>
+        </div>
+
+        <!-- Mobile Navigation Menu (visible on mobile only) -->
+        <nav id="nav-menu-mobile" class="hidden flex flex-col space-y-4 bg-gray-800 p-4 md:hidden">
+            <!-- Menu Items -->
+            <div class="relative group">
+                <a href="#err"
+                    class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">Home</a>
+            </div>
+            <div class="relative group">
+                <a href="#album-start">
+                <button class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">albums</a></button>
+            </div>
+            <div class="relative group">
+                <a href="#Artist">
+                <button class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">Artist</a></button>
+            </div>
+            <div class="relative group">
+                <a href="#Songs">
+                <button class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">Songs</a></button>
+            </div>
+            <div class="relative group">
+                <a href="#events-table"
+                    class="text-gray-200 font-semibold hover:text-blue-400 flex items-center">Events</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- JavaScript for Menu Toggle -->
+    <script>
+        // JavaScript to toggle the mobile menu
+        const menuToggle = document.getElementById('menu-toggle');
+        const navMenuMobile = document.getElementById('nav-menu-mobile');
+
+        menuToggle.addEventListener('click', () => {
+            navMenuMobile.classList.toggle('hidden');
+        });
+    </script>
+
+
+
+    <!-- Carousel Wrapper -->
+    <div class="carousel w-full h-screen mx-auto overflow-hidden">
+        <div id="carousel-content" class="h-full flex transition-transform duration-500 rett">
+        </div>
+        <button id="prev-btn"
+            class="absolute left-0 top-1/2 transform -translate-y-1/2 text-white px-4 py-2 rounded-r focus:outline-none">
+            <i class="fas fa-chevron-left"></i>
+        </button>
+        <button id="next-btn"
+            class="absolute right-0 top-1/2 transform -translate-y-1/2 text-white px-4 py-2 rounded-l focus:outline-none">
+            <i class="fas fa-chevron-right"></i>
+        </button>
+    </div>
+
+    <section id="album-start">
+        <div class="py-6 back-albums" id="Albums">
+            <div class="container mx-auto">
+                <h1 class="text-center text-3xl font-bold text-white">Our latest Albums</h1>
+                <button onclick="downloadjson()">Download Albums</button>
+            </div>
+        </div>
+
+        <div class="mx-auto px-0">
+            <!-- Three Columns Layout -->
+            <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 horizontal-slider"
+                id="album-rush">
+
+            </div>
+        </div>
+    </section>
+
+    <!-- <div class="container text-right ">
+        <a href="albums.html" class="see-all  text-white cursor-pointer">View More</a>
+
+    </div> -->
+
+    <div class="py-6 back-artists" id="Artists">
+        <div class="container mx-auto">
+            <h1 class="text-center text-3xl font-bold text-white">Our Star Artists</h1>
+    
+            <!-- Two Column Layout -->
+            <div class="flex flex-col md:flex-row max-w-screen-lg mx-auto">
+                <!-- First Column (2 parts) -->
+                <div class="w-full md:w-2/5 p-4 shadow rounded mr-4">
+                    <h2 class="font-semibold text-lg text-white">Content Title</h2>
+                    <p class="text-gray-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
+                        printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+    
+                <!-- Second Column (3 parts) -->
+                <div class="w-full md:w-3/5 p-4 shadow rounded">
+                    <div class="flex flex-col gap-6 artist-parent">
+                        <!-- You can add your artist content here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="back-songs">
+        <div id="Songs">
+            <div class="container mx-auto">
+                <h1 class="text-center text-3xl font-bold text-white">Our Songs</h1>
+            </div>
+        </div>
+    
+        <div class="container mx-auto mt-8 p-4">
+            <div class="overflow-x-auto shadow-md rounded-lg">
+                <table class="min-w-full bg-gray-800 text-gray-200">
+                    <!-- Table Header -->
+                    <thead>
+                        <tr class="border-b border-gray-700">
+                            <th class="px-4 py-3 text-left font-semibold text-gray-300">#</th>
+                            <th class="px-4 py-3 text-left font-semibold text-gray-300">Title</th>
+                            <th class="px-4 py-3 text-left font-semibold text-gray-300">Artist</th>
+                            <th class="px-4 py-3 text-left font-semibold text-gray-300">Album</th>
+                            <th class="px-4 py-3 text-left font-semibold text-gray-300">Duration</th>
+                        </tr>
+                    </thead>
+                    <!-- Table Body -->
+                    <tbody id="songs-table-body" class="back-songs">
+                        <!-- Row 1 -->
+                        <!-- Additional Rows -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <div id="events-table" class="py-6">
+        <div class="container mx-auto">
+            <h1 class="text-center text-3xl font-bold text-white">Events</h1>
+        </div>
+    </div>
+    
+    <div class="container mx-auto py-6 bg-pattern">
+        <table class="table" id="events-table-body">
+            <!-- Event Rows -->
+        </table>
+    </div>
+   
+    <footer class="bg-gray-800 text-gray-300 py-8">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row justify-between items-start md:items-center space-y-4 md:space-y-0">
+                <div class="max-w-md">
+                    <h2 class="text-xl font-semibold text-white mb-2">About Us</h2>
+                    <p class="text-gray-400 leading-relaxed">We bring you the latest in music and entertainment...</p>
+                </div>
+                <div class="space-y-2">
+                    <h2 class="text-xl font-semibold text-white">Quick Links</h2>
+                    <ul class="text-gray-400 space-y-1">
+                        <li><a href="#" class="hover:text-gray-200">Home</a></li>
+                        <li><a href="#" class="hover:text-gray-200">About</a></li>
+                        <li><a href="#" class="hover:text-gray-200">Contact</a></li>
+                        <li><a href="#" class="hover:text-gray-200">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="space-y-2">
+                    <h2 class="text-xl font-semibold text-white">Contact Us</h2>
+                    <p class="text-gray-400">Email: support@musicworld.com</p>
+                    <p class="text-gray-400">Phone: +123 456 7890</p>
+                </div>
+            </div>
+            <p class="text-gray-500 mt-4">&copy; 2024 MusicWorld. All rights reserved.</p>
+        </div>
+    </footer>
+    
+    
+    
+
+
+   
+
+    
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+    <script src="./js/events.js"></script>
+    <script src="./js/albums.js"></script>
+    <script src="./js/artist.js"></script>
+    <script src="./js/msongs.js" ></script>
+
+
+</body>
+
+</html>

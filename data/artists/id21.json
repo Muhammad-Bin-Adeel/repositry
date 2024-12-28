@@ -1,0 +1,50 @@
+{
+    "id": 21,
+    "name": "Johann Sebastian Bach",
+    "category": 5,
+    "subcategory": 5.1,
+    "genres": ["Classical", "Baroque"],
+    "origin": "Eisenach, Germany",
+    "years_active": "1703-1750",
+    "label": ["Various Classical Labels"],
+    "image": "",
+    "members": [
+      {
+        "name": "Johann Sebastian Bach",
+        "role": "Composer, Organist, Violinist",
+        "date_of_birth": "1685-03-31",
+        "date_of_death": "1750-07-28"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Brandenburg Concertos",
+        "release_year": 1721,
+        "songs": ["Brandenburg Concerto No. 1", "Brandenburg Concerto No. 2", "Brandenburg Concerto No. 3"]
+      },
+      {
+        "title": "The Well-Tempered Clavier",
+        "release_year": 1722,
+        "songs": ["Prelude in C Major", "Fugue in C Major", "Prelude in D Major"]
+      },
+      {
+        "title": "Mass in B minor",
+        "release_year": 1749,
+        "songs": ["Kyrie", "Gloria", "Agnus Dei"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Posthumous Recognition",
+        "year": "N/A",
+        "event": "Considered one of the greatest composers of all time"
+      }
+    ],
+    "social_media": {
+      "twitter": null,
+      "youtube": null
+    },
+    "official_website": null
+  }
+  

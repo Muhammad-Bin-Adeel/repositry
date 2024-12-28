@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 8,
+      "name": "Herbie Hancock",
+      "category": 2,
+      "subcategory": 2.4,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "Head Hunters",
+          "releaseYear": 1973,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Chameleon",
+            "Watermelon Man",
+            "Sly",
+            "Vein Melter",
+            "Actual Proof",
+            "Butterfly",
+            "Spiderweb",
+            "Doin' It",
+            "Succotash",
+            "Palm Grease"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "Maiden Voyage",
+          "releaseYear": 1965,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Maiden Voyage",
+            "The Eye of the Hurricane",
+            "Little One",
+            "Dolphin Dance",
+            "Epilogue",
+            "Arietis",
+            "The Sorcerer",
+            "The Jungle",
+            "The Song of the Earth",
+            "The Man I Love"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "Future Shock",
+          "releaseYear": 1983,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Rockit",
+            "The Bomb",
+            "Future Shock",
+            "TFS",
+            "Doin' It",
+            "Rite of Spring",
+            "The Man-Machine",
+            "Dancing in the Moonlight",
+            "Megamix",
+            "Mango"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "Speak Like a Child",
+          "releaseYear": 1968,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Speak Like a Child",
+            "The Sorcerer",
+            "Canteloupe Island",
+            "Witch Hunt",
+            "The Humpback",
+            "The Man I Love",
+            "I Have a Dream",
+            "A Farewell to Arms",
+            "My Spanish Heart",
+            "The Eye of the Hurricane"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "The Piano",
+          "releaseYear": 1998,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "My Favorite Things",
+            "Cantaloupe Island",
+            "Watermelon Man",
+            "A Tribute to Miles",
+            "Maiden Voyage",
+            "The Sorcerer",
+            "Witch Hunt",
+            "Dolphin Dance",
+            "One Finger Snap",
+            "Chameleon"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "Crossings",
+          "releaseYear": 1972,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Realistic",
+            "The Essence",
+            "One Finger Snap",
+            "Butterfly",
+            "The Jungle",
+            "Spirits",
+            "Wandering Spirit",
+            "Visions",
+            "Watermelon Man",
+            "Chameleon"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "River: The Joni Letters",
+          "releaseYear": 2007,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Court and Spark",
+            "A Case of You",
+            "The River",
+            "Both Sides Now",
+            "Woodstock",
+            "Free Man in Paris",
+            "The Circle Game",
+            "Blue",
+            "Coyote",
+            "All I Want"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "Village Life",
+          "releaseYear": 2008,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "The Village",
+            "Village Life",
+            "My Life",
+            "A Long Way to Go",
+            "The Love",
+            "When You Are Mine",
+            "Ain't Nobody",
+            "Soleil",
+            "Night's Dawn",
+            "When the Saints"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "The Imagine Project",
+          "releaseYear": 2010,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Imagine",
+            "The Song Goes On",
+            "For Your Love",
+            "The Man Who Sold the World",
+            "Lazaro",
+            "Ghetto Blues",
+            "Stronger",
+            "People Get Ready",
+            "Rivers of Babylon",
+            "The Times They Are A-Changin'"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "Dis Is Da Drum",
+          "releaseYear": 1994,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Cantaloupe Island",
+            "Chameleon",
+            "Butterfly",
+            "Rockit",
+            "Watermelon Man",
+            "Jazz Funk",
+            "Doin' It",
+            "Future Shock",
+            "Tell Me a Bedtime Story",
+            "The Bomb"
+          ]
+        }
+      ]
+    }
+  }
+  

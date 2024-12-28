@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Submission</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="js/form.js" defer></script>
+</head>
+
+<body class="bg-gray-900 text-white">
+    <!-- Header -->
+    <header id="ad-header" class="bg-gray-800 shadow-lg fixed w-full z-50">
+        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <!-- Logo -->
+            <div class="text-2xl font-bold text-white flex items-center space-x-2">
+                <img src="./images/logo.jpg" alt="Logo" class="h-14 w-auto">
+            </div>
+
+            <!-- Hamburger Menu Button (visible on mobile only) -->
+            <button id="menu-toggle" class="text-white md:hidden focus:outline-none">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+                </svg>
+            </button>
+
+            <!-- Desktop Navigation Menu -->
+            <nav id="nav-menu-desktop" class="hidden md:flex space-x-8">
+                <a href="#err" class="text-gray-200 font-semibold hover:text-blue-400 transition duration-300">Home</a>
+                <a href="#album-start" class="text-gray-200 font-semibold hover:text-blue-400 transition duration-300">Albums</a>
+                <a href="#Artist" class="text-gray-200 font-semibold hover:text-blue-400 transition duration-300">Artist</a>
+                <a href="#Songs" class="text-gray-200 font-semibold hover:text-blue-400 transition duration-300">Songs</a>
+                <a href="#events-table" class="text-gray-200 font-semibold hover:text-blue-400 transition duration-300">Events</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Form Section -->
+    <div class="container mx-auto py-20 px-4">
+        <div class="bg-gray-700 p-6 rounded-lg shadow-lg max-w-md mx-auto">
+            <h2 class="text-xl font-semibold mb-4">Register</h2>
+            <form name="fm" onsubmit="return validateForm(event);" class="space-y-4">
+                <div>
+                    <label for="fname" class="block text-sm font-medium text-white">First Name:</label>
+                    <input type="text" id="fname" name="fname" class="mt-1 p-2 w-full border border-gray-300 rounded-md">
+                </div>
+                <div>
+                    <label for="lname" class="block text-sm font-medium text-white">Last Name:</label>
+                    <input type="text" id="lname" name="lname" class="mt-1 p-2 w-full border border-gray-300 rounded-md">
+                </div>
+                <div>
+                    <label for="email" class="block text-sm font-medium text-white">Email:</label>
+                    <input type="email" id="email" name="email" class="mt-1 p-2 w-full border border-gray-300 rounded-md">
+                </div>
+                <div class="flex flex-col space-y-4 max-w-lg mx-auto p-4 bg-gray-700 rounded-lg shadow-lg">
+                    <!-- Label -->
+                    <label for="city" class="text-white font-semibold">City</label>
+                    
+                    <!-- Dropdown -->
+                    <select id="city" class="block w-1/3 p-2 bg-gray-200 text-gray-700 rounded-md border border-gray-300 focus:outline-none focus:border-blue-500">
+                        <option value="" disabled selected>Select City</option>
+                        <option value="Islamabad">Islamabad</option>
+                        <option value="Peshawar">Peshawar</option>
+                        <option value="Quetta">Quetta</option>
+                        <option value="Lahore">Lahore</option>
+                        <option value="Karachi">Karachi</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="comments" class="block text-sm font-medium text-white">Comments:</label>
+                    <textarea id="comments" rows="5" class="mt-1 p-2 w-full border border-gray-300 rounded-md"></textarea>
+                </div>
+                <div class="flex space-x-4">
+                    <input type="submit" name="btn" value="Register" class="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-md cursor-pointer">
+                    <input type="reset" name="reset" value="Reset" class="bg-gray-500 hover:bg-gray-600 text-white font-semibold py-2 px-4 rounded-md cursor-pointer">
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Google Maps Embed -->
+    <div class="my-8">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57878.94548539224!2d67.00364416696952!3d24.95134140761015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33f7ba71e9611%3A0x2335a77872ffee13!2sHobnob%20%7C%20Hyderi%20Market%20branch!5e0!3m2!1sen!2s!4v1720776856283!5m2!1sen!2s"
+            width="100%" height="450" class="border-0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-gray-300 py-8">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row justify-between items-start md:items-center space-y-4 md:space-y-0">
+                <div class="max-w-md">
+                    <h2 class="text-xl font-semibold text-white mb-2">About Us</h2>
+                    <p class="text-gray-400 leading-relaxed">We bring you the latest in music and entertainment...</p>
+                </div>
+                <div class="space-y-2">
+                    <h2 class="text-xl font-semibold text-white">Quick Links</h2>
+                    <ul class="text-gray-400 space-y-1">
+                        <li><a href="#" class="hover:text-gray-200">Home</a></li>
+                        <li><a href="#" class="hover:text-gray-200">About</a></li>
+                        <li><a href="#" class="hover:text-gray-200">Contact</a></li>
+                        <li><a href="#" class="hover:text-gray-200">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="space-y-2">
+                    <h2 class="text-xl font-semibold text-white">Contact Us</h2>
+                    <p class="text-gray-400">Email: support@musicworld.com</p>
+                    <p class="text-gray-400">Phone: +123 456 7890</p>
+                </div>
+            </div>
+            <p class="text-gray-500 mt-4 text-center">&copy; 2024 MusicWorld. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

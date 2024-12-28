@@ -1,0 +1,53 @@
+{
+    "id": 8,
+    "name": "Herbie Hancock",
+    "category": 2,
+    "subcategory": 2.4,
+    "genres": ["Jazz", "Jazz Fusion", "Post-Bop", "Funk"],
+    "origin": "Chicago, Illinois, USA",
+    "years_active": "1961-present",
+    "label": ["Blue Note Records", "Columbia Records", "Warner Bros. Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "Herbie Hancock",
+        "role": "Piano, keyboards, composer",
+        "date_of_birth": "1940-04-12"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Maiden Voyage",
+        "release_year": 1965,
+        "songs": ["Maiden Voyage", "The Eye of the Hurricane", "Dolphin Dance"]
+      },
+      {
+        "title": "Head Hunters",
+        "release_year": 1973,
+        "songs": ["Chameleon", "Watermelon Man", "Sly"]
+      },
+      {
+        "title": "River: The Joni Letters",
+        "release_year": 2007,
+        "songs": ["Court and Spark", "Edith and the Kingpin", "The Tea Leaf Prophecy"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Award for Album of the Year",
+        "year": 2008,
+        "album": "River: The Joni Letters"
+      },
+      {
+        "title": "Kennedy Center Honors",
+        "year": 2013
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/herbiehancock",
+      "youtube": "https://youtube.com/herbiehancock"
+    },
+    "official_website": "https://www.herbiehancock.com"
+  }
+  

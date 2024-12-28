@@ -1,0 +1,50 @@
+{
+    "id": 25,
+    "name": "Giuseppe Verdi",
+    "category": 5,
+    "subcategory": 5.5,
+    "genres": ["Classical", "Opera"],
+    "origin": "Le Roncole, Duchy of Parma, Italy",
+    "years_active": "1839-1901",
+    "label": ["Various Classical Labels"],
+    "image": "",
+    "members": [
+      {
+        "name": "Giuseppe Verdi",
+        "role": "Composer",
+        "date_of_birth": "1813-10-10",
+        "date_of_death": "1901-01-27"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Rigoletto",
+        "release_year": 1851,
+        "songs": ["La donna è mobile", "Caro nome", "Cortigiani, vil razza dannata"]
+      },
+      {
+        "title": "La Traviata",
+        "release_year": 1853,
+        "songs": ["Libiamo ne' lieti calici", "Sempre libera", "Addio del passato"]
+      },
+      {
+        "title": "Aida",
+        "release_year": 1871,
+        "songs": ["Celeste Aida", "Triumphal March", "O patria mia"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Posthumous International Recognition",
+        "year": 2001,
+        "event": "Centennial of his death commemorated worldwide"
+      }
+    ],
+    "social_media": {
+      "twitter": null,
+      "youtube": null
+    },
+    "official_website": null
+  }
+  

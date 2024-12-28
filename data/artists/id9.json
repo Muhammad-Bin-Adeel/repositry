@@ -1,0 +1,54 @@
+{
+    "id": 9,
+    "name": "Stan Getz",
+    "category": 2,
+    "subcategory": 2.5,
+    "genres": ["Jazz", "Bossa Nova", "Cool Jazz"],
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "years_active": "1943-1991",
+    "label": ["Verve Records", "Prestige Records", "Roost Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "Stan Getz",
+        "role": "Saxophone",
+        "date_of_birth": "1927-02-02",
+        "date_of_death": "1991-06-06"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Getz/Gilberto",
+        "release_year": 1964,
+        "songs": ["The Girl from Ipanema", "Corcovado", "Desafinado"]
+      },
+      {
+        "title": "Focus",
+        "release_year": 1961,
+        "songs": ["I'm Late, I'm Late", "Her", "I Remember When"]
+      },
+      {
+        "title": "Stan Getz at The Shrine",
+        "release_year": 1955,
+        "songs": ["Flamingo", "On the Alamo", "Topsy"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Award for Record of the Year",
+        "year": 1965,
+        "song": "The Girl from Ipanema"
+      },
+      {
+        "title": "Grammy Lifetime Achievement Award",
+        "year": 1991
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/stangetz",
+      "youtube": "https://youtube.com/stangetz"
+    },
+    "official_website": "https://www.stangetz.com"
+  }
+  

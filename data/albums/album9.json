@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 9,
+      "name": "Stan Getz",
+      "category": 2,
+      "subcategory": 2.5,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "Getz/Gilberto",
+          "releaseYear": 1964,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "The Girl from Ipanema",
+            "Corcovado",
+            "Desafinado",
+            "So Danço Samba",
+            "O Grande Amor",
+            "Vivo Sonhando",
+            "Garota de Ipanema",
+            "Um Abraco No Bonfá",
+            "Meditation",
+            "Samba de Uma Nota Só"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "Focus",
+          "releaseYear": 1961,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "The Wind",
+            "Ariadne",
+            "Theme from 'Focus'",
+            "Tears",
+            "Pan",
+            "A Game of Love",
+            "A Child Is Born",
+            "Nostalgia",
+            "The Sorceress",
+            "Hymn to Freedom"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "Jazz Samba",
+          "releaseYear": 1962,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Desafinado",
+            "Samba de Uma Nota Só",
+            "O Pato",
+            "So Danco Samba",
+            "Samba de Orfeu",
+            "Garota de Ipanema",
+            "Doralice",
+            "The Girl from Ipanema",
+            "Corcovado",
+            "Meditation"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "Stan Getz and the Oscar Peterson Trio",
+          "releaseYear": 1974,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Fascinating Rhythm",
+            "I Concentrate on You",
+            "Misty",
+            "The Nearness of You",
+            "Honeysuckle Rose",
+            "Sweet Lorraine",
+            "Moonlight in Vermont",
+            "Out of Nowhere",
+            "My Romance",
+            "Blues for Ethel"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "The Best of Stan Getz",
+          "releaseYear": 1970,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "The Girl from Ipanema",
+            "Corcovado",
+            "Desafinado",
+            "Samba de Uma Nota Só",
+            "One Note Samba",
+            "Speak Low",
+            "The Shadow of Your Smile",
+            "Take Five",
+            "Misty",
+            "Blues for Pablo"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "Stan Getz at the Shrine",
+          "releaseYear": 1967,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Samba De Uma Nota So",
+            "Aguas De Março",
+            "The Girl from Ipanema",
+            "Corcovado",
+            "Doralice",
+            "Meditation",
+            "Fascinating Rhythm",
+            "O Pato",
+            "Desafinado",
+            "Falsa Baiana"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "Sweet Rain",
+          "releaseYear": 1967,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Sweet Rain",
+            "A Time for Love",
+            "Dancing on the Ceiling",
+            "Don't Explain",
+            "There Is No Greater Love",
+            "The Wind",
+            "The Shadow of Your Smile",
+            "Body and Soul",
+            "For All We Know",
+            "Summertime"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "Stan Getz Plays",
+          "releaseYear": 1973,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Airegin",
+            "Bossa Nova",
+            "Over the Rainbow",
+            "Stella by Starlight",
+            "The Night Has a Thousand Eyes",
+            "Out of This World",
+            "Have You Met Miss Jones?",
+            "Yesterdays",
+            "I Love You",
+            "My Favorite Things"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "Live at the Village Vanguard",
+          "releaseYear": 1965,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Wave",
+            "One Note Samba",
+            "Samba De Uma Nota So",
+            "The Girl from Ipanema",
+            "Doralice",
+            "Corcovado",
+            "Meditation",
+            "O Grande Amor",
+            "Desafinado",
+            "Garota de Ipanema"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "Apasionado",
+          "releaseYear": 1982,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Apasionado",
+            "Doralice",
+            "Samba De Uma Nota So",
+            "A Felicidade",
+            "The Girl from Ipanema",
+            "Corcovado",
+            "Desafinado",
+            "O Pato",
+            "Meditation",
+            "The Shadow of Your Smile"
+          ]
+        }
+      ]
+    }
+  }
+  

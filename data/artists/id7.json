@@ -1,0 +1,53 @@
+{
+    "id": 7,
+    "name": "John Coltrane",
+    "category": 2,
+    "subcategory": 2.3,
+    "genres": ["Jazz", "Bebop", "Hard Bop", "Modal Jazz", "Avant-Garde Jazz"],
+    "origin": "Hamlet, North Carolina, USA",
+    "years_active": "1945-1967",
+    "label": ["Prestige Records", "Blue Note Records", "Impulse! Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "John Coltrane",
+        "role": "Saxophone, composer",
+        "date_of_birth": "1926-09-23",
+        "date_of_death": "1967-07-17"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Blue Train",
+        "release_year": 1957,
+        "songs": ["Blue Train", "Moment's Notice", "Locomotion"]
+      },
+      {
+        "title": "Giant Steps",
+        "release_year": 1960,
+        "songs": ["Giant Steps", "Naima", "Countdown"]
+      },
+      {
+        "title": "A Love Supreme",
+        "release_year": 1965,
+        "songs": ["Acknowledgement", "Resolution", "Pursuance"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Lifetime Achievement Award",
+        "year": 1992
+      },
+      {
+        "title": "Pulitzer Prize Special Citation",
+        "year": 2007
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/johncoltrane",
+      "youtube": "https://youtube.com/johncoltrane"
+    },
+    "official_website": "https://www.johncoltrane.com"
+  }
+  

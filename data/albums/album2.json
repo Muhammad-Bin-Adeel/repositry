@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 2,
+      "name": "Led Zeppelin",
+      "category": 1,
+      "subcategory": 1.3,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "Led Zeppelin",
+          "releaseYear": 1969,
+          "image": "/images/albums/Led Zeppelin.jpg",
+          "songs": [
+            "Good Times Bad Times",
+            "Babe I'm Gonna Leave You",
+            "You Shook Me",
+            "Dazed and Confused",
+            "Your Time Is Gonna Come",
+            "Black Mountain Side",
+            "Communication Breakdown",
+            "I Can't Quit You Baby",
+            "How Many More Times",
+            "The Girl I Love She Got Long Black Wavy Hair"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "Led Zeppelin II",
+          "releaseYear": 1969,
+          "image": "/images/albums/Led Zeppelin II.jpg",
+          "songs": [
+            "Whole Lotta Love",
+            "What Is and What Should Never Be",
+            "The Lemon Song",
+            "Thank You",
+            "Heartbreaker",
+            "Living Loving Maid (She's Just a Woman)",
+            "Ramble On",
+            "Moby Dick",
+            "Bring It on Home",
+            "Out on the Tiles"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "Led Zeppelin III",
+          "releaseYear": 1970,
+          "image": "/images/albums/Led Zeppelin III.jpg",
+          "songs": [
+            "Immigrant Song",
+            "Friends",
+            "Celebration Day",
+            "Since I've Been Loving You",
+            "Out on the Tiles",
+            "Gallows Pole",
+            "Tangerine",
+            "That's the Way",
+            "Bron-Y-Aur Stomp",
+            "Hats Off to (Roy) Harper"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "Led Zeppelin IV",
+          "releaseYear": 1971,
+          "image": "/images/albums/Led Zeppelin Iv.avif",
+          "songs": [
+            "Black Dog",
+            "Rock and Roll",
+            "The Battle of Evermore",
+            "Stairway to Heaven",
+            "Misty Mountain Hop",
+            "Four Sticks",
+            "Going to California",
+            "When the Levee Breaks",
+            "The Rain Song",
+            "Over the Hills and Far Away"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "Houses of the Holy",
+          "releaseYear": 1973,
+          "image": "/images/albums/Houses of the Holy.jpg",
+          "songs": [
+            "The Song Remains the Same",
+            "The Rain Song",
+            "Over the Hills and Far Away",
+            "Dancing Days",
+            "D'yer Mak'er",
+            "No Quarter",
+            "The Ocean",
+            "The Crunge",
+            "The Rover",
+            "Down by the Seaside"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "Physical Graffiti",
+          "releaseYear": 1975,
+          "image": "/images/albums/Physical Graffiti.jpg",
+          "songs": [
+            "Custard Pie",
+            "The Rover",
+            "In My Time of Dying",
+            "Houses of the Holy",
+            "Trampled Under Foot",
+            "Kashmir",
+            "In the Light",
+            "Bron-Yr-Aur",
+            "Down by the Seaside",
+            "Night Flight"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "Presence",
+          "releaseYear": 1976,
+          "image": "/images/albums/Presence.jpg",
+          "songs": [
+            "Achilles Last Stand",
+            "For Your Life",
+            "Royal Orleans",
+            "Nobody's Fault but Mine",
+            "Candy Store Rock",
+            "Hots on for Nowhere",
+            "Tea for One",
+            "Since I've Been Loving You",
+            "Kashmir",
+            "In the Evening"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "The Song Remains the Same",
+          "releaseYear": 1976,
+          "image": "/images/albums/The Song Remains the Same.jpg",
+          "songs": [
+            "Rock and Roll",
+            "Celebration Day",
+            "The Song Remains the Same",
+            "Rain Song",
+            "Dazed and Confused",
+            "No Quarter",
+            "Stairway to Heaven",
+            "Moby Dick",
+            "Heartbreaker",
+            "Whole Lotta Love"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "In Through the Out Door",
+          "releaseYear": 1979,
+          "image": "/images/albums/In Through the Out Door.jpg",
+          "songs": [
+            "In the Evening",
+            "All My Love",
+            "I Can't Quit You Baby",
+            "Hot Dog and a Shake",
+            "Carouselambra",
+            "South Bound Saurez",
+            "Fool in the Rain",
+            "The Last Time",
+            "Wearing and Tearing",
+            "All My Love"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "Coda",
+          "releaseYear": 1982,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "We're Gonna Groove",
+            "Poor Tom",
+            "I Can't Quit You Baby",
+            "Walter's Walk",
+            "Ozone Baby",
+            "Darlene",
+            "Bonzo's Montreux",
+            "Wearing and Tearing",
+            "Baby Come On Home",
+            "Tangerine"
+          ]
+        }
+      ]
+    }
+  }
+  

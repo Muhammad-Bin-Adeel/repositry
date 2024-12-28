@@ -1,0 +1,50 @@
+{
+    "id": 22,
+    "name": "Ludwig van Beethoven",
+    "category": 5,
+    "subcategory": 5.2,
+    "genres": ["Classical", "Symphony", "Piano"],
+    "origin": "Bonn, Germany",
+    "years_active": "1770-1827",
+    "label": ["Various Classical Labels"],
+    "image": "",
+    "members": [
+      {
+        "name": "Ludwig van Beethoven",
+        "role": "Composer, Pianist",
+        "date_of_birth": "1770-12-17",
+        "date_of_death": "1827-03-26"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Symphony No. 5",
+        "release_year": 1808,
+        "songs": ["Allegro con brio", "Andante con moto", "Scherzo"]
+      },
+      {
+        "title": "Moonlight Sonata",
+        "release_year": 1801,
+        "songs": ["Adagio sostenuto", "Allegretto", "Presto agitato"]
+      },
+      {
+        "title": "Symphony No. 9",
+        "release_year": 1824,
+        "songs": ["Allegro ma non troppo", "Molto vivace", "Ode to Joy"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Posthumous Recognition",
+        "year": "N/A",
+        "event": "Widely regarded as one of the greatest composers in Western music history"
+      }
+    ],
+    "social_media": {
+      "twitter": null,
+      "youtube": null
+    },
+    "official_website": null
+  }
+  

@@ -1,0 +1,69 @@
+{
+    "id": 3,
+    "name": "The Strokes",
+    "category": 1,
+    "subcategory": 1.5,
+    "genres": ["Indie Rock", "Garage Rock", "Post-Punk Revival"],
+    "origin": "New York City, USA",
+    "years_active": "1998-present",
+    "label": ["RCA Records", "Rough Trade Records", "Cult Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "Julian Casablancas",
+        "role": "Lead vocals",
+        "date_of_birth": "1978-08-23"
+      },
+      {
+        "name": "Nick Valensi",
+        "role": "Guitar",
+        "date_of_birth": "1981-01-16"
+      },
+      {
+        "name": "Albert Hammond Jr.",
+        "role": "Guitar",
+        "date_of_birth": "1980-04-09"
+      },
+      {
+        "name": "Nikolai Fraiture",
+        "role": "Bass guitar",
+        "date_of_birth": "1979-11-13"
+      },
+      {
+        "name": "Fabrizio Moretti",
+        "role": "Drums",
+        "date_of_birth": "1980-06-02"
+      }
+    ],
+    "former_members": [],
+    "discography": [
+      {
+        "title": "Is This It",
+        "release_year": 2001,
+        "songs": ["Last Nite", "Someday", "Hard to Explain"]
+      },
+      {
+        "title": "Room on Fire",
+        "release_year": 2003,
+        "songs": ["Reptilia", "12:51", "Under Control"]
+      },
+      {
+        "title": "The New Abnormal",
+        "release_year": 2020,
+        "songs": ["Bad Decisions", "At the Door", "Brooklyn Bridge to Chorus"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Award for Best Rock Album",
+        "year": 2021,
+        "album": "The New Abnormal"
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/thestrokes",
+      "youtube": "https://youtube.com/thestrokes"
+    },
+    "official_website": "https://www.thestrokes.com"
+  }
+  

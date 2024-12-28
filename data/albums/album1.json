@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 1,
+      "name": "Nirvana",
+      "category": 1,
+      "subcategory": 1.1,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "Bleach",
+          "releaseYear": 1989,          
+          "image": "/images/albums/Bleach.jpg",
+          "songs": [
+            "Blew",
+            "Floyd the Barber",
+            "About a Girl",
+            "School",
+            "Love Buzz",
+            "Paper Cuts",
+            "Negative Creep",
+            "Scoff",
+            "Swap Meet",
+            "Mr. Moustache"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "Nevermind",
+          "releaseYear": 1991,
+          "image": "/images/albums/Nevermind.jpg",
+          "songs": [
+            "Smells Like Teen Spirit",
+            "In Bloom",
+            "Come as You Are",
+            "Breed",
+            "Lithium",
+            "Polly",
+            "Territorial Pissings",
+            "Drain You",
+            "Lounge Act",
+            "Something in the Way"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "In Utero",
+          "releaseYear": 1993,
+          "image": "https://i.ytimg.com/vi/nsYZiO1FotI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBiC6zdjxA0d7F8UL5d7LzaB4tIRg",
+          "songs": [
+            "Serve the Servants",
+            "Scentless Apprentice",
+            "Heart-Shaped Box",
+            "Rape Me",
+            "Frances Farmer Will Have Her Revenge on Seattle",
+            "Dumb",
+            "Very Ape",
+            "Milk It",
+            "Pennyroyal Tea",
+            "All Apologies"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "MTV Unplugged in New York",
+          "releaseYear": 1994,
+          "image": "/images/albums/MTV Unplugged in New York.jpg",
+          "songs": [
+            "About a Girl",
+            "Come as You Are",
+            "Jesus Doesn't Want Me for a Sunbeam",
+            "The Man Who Sold the World",
+            "Pennyroyal Tea",
+            "Dumb",
+            "Polly",
+            "Something in the Way",
+            "All Apologies",
+            "Where Did You Sleep Last Night"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "Best of Nirvana",
+          "releaseYear": 2002,
+          "image": "/images/albums/Best of Nirvana.jpg",
+          "songs": [
+            "Smells Like Teen Spirit",
+            "Come as You Are",
+            "Heart-Shaped Box",
+            "Lithium",
+            "In Bloom",
+            "All Apologies",
+            "About a Girl",
+            "Rape Me",
+            "The Man Who Sold the World",
+            "Pennyroyal Tea"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "With the Lights Out",
+          "releaseYear": 2004,
+          "image": "/images/albums/With the Lights Out.jpg",
+          "songs": [
+            "You Know You're Right",
+            "About a Girl",
+            "Been a Son",
+            "Sliver",
+            "The Man Who Sold the World",
+            "Pennyroyal Tea",
+            "Heart-Shaped Box",
+            "Dumb",
+            "Come as You Are",
+            "Rape Me"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "Live at Reading",
+          "releaseYear": 2009,
+          "image": "/images/albums/Live at Reading.jpg",
+          "songs": [
+            "Intro",
+            "All Apologies",
+            "Drain You",
+            "Aneurysm",
+            "Smells Like Teen Spirit",
+            "Territorial Pissings",
+            "Lithium",
+            "The Man Who Sold the World",
+            "Dumb",
+            "Come as You Are"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "Nirvana (2002)",
+          "releaseYear": 2002,
+          "image": "/images/albums/Nirvana (2002).jpg",
+          "songs": [
+            "You Know You're Right",
+            "About a Girl",
+            "Come as You Are",
+            "Smells Like Teen Spirit",
+            "All Apologies",
+            "In Bloom",
+            "Heart-Shaped Box",
+            "Lithium",
+            "Rape Me",
+            "Pennyroyal Tea"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "Sliver: The Best of the Box",
+          "releaseYear": 2005,
+          "image": "/images/albums/Sliver: The Best of the Box.webp",
+          "songs": [
+            "You Know You're Right",
+            "Aneurysm",
+            "Heart-Shaped Box",
+            "All Apologies",
+            "Smells Like Teen Spirit",
+            "Come as You Are",
+            "In Bloom",
+            "Rape Me",
+            "Lithium",
+            "About a Girl"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "Himsa /x",
+          "releaseYear": 2007,
+          "image": "/images/albums/coda.jpg",
+          "songs": [
+            "Aneurysm",
+            "Love Buzz",
+            "Negative Creep",
+            "Blew",
+            "Drain You",
+            "Sliver",
+            "About a Girl",
+            "Come as You Are",
+            "Pennyroyal Tea",
+            "Heart-Shaped Box"
+          ]
+        }
+      ]
+    }
+  }
+  

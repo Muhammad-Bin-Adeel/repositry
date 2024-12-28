@@ -1,0 +1,62 @@
+
+.event-detail-box {
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    background: rgba(0, 0, 0, 0.3);
+    padding-right: 50px;
+}
+
+
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table *{
+    color: white;
+}
+
+.table td {
+    padding: 10px;
+    border-bottom: 1px solid #555;
+}
+.table .date {
+    color: #81c7e0;
+    font-weight: bold;
+    width: 10%;
+}
+
+.table .buy-now-btn {
+    font-size: 12px;
+    padding: 4px 16px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+.btn {
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    width: 100px;
+}
+.btn-buy {
+    background-color: #4ec6e0;
+}
+.btn-cancelled {
+    background-color: #555;
+    color: #ccc;
+}
+.btn-coming-soon,
+.btn-sold-out {
+    color: #81c7e0;
+    font-weight: bold;
+}

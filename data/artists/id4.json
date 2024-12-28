@@ -1,0 +1,70 @@
+{
+    "id": 4,
+    "name": "Green Day",
+    "category": 1,
+    "subcategory": 1.4,
+    "genres": ["Punk Rock", "Pop Punk", "Alternative Rock"],
+    "origin": "East Bay, California, USA",
+    "years_active": "1987-present",
+    "label": ["Reprise Records", "Lookout! Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "Billie Joe Armstrong",
+        "role": "Lead vocals, guitar",
+        "date_of_birth": "1972-02-17"
+      },
+      {
+        "name": "Mike Dirnt",
+        "role": "Bass guitar",
+        "date_of_birth": "1972-05-04"
+      },
+      {
+        "name": "Tré Cool",
+        "role": "Drums",
+        "date_of_birth": "1972-12-09"
+      }
+    ],
+    "former_members": [
+      {
+        "name": "John Kiffmeyer",
+        "role": "Drums",
+        "years_active": "1987-1990"
+      }
+    ],
+    "discography": [
+      {
+        "title": "Dookie",
+        "release_year": 1994,
+        "songs": ["Basket Case", "When I Come Around", "Longview"]
+      },
+      {
+        "title": "American Idiot",
+        "release_year": 2004,
+        "songs": ["American Idiot", "Boulevard of Broken Dreams", "Holiday"]
+      },
+      {
+        "title": "21st Century Breakdown",
+        "release_year": 2009,
+        "songs": ["21 Guns", "Know Your Enemy", "East Jesus Nowhere"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Award for Best Rock Album",
+        "year": 2005,
+        "album": "American Idiot"
+      },
+      {
+        "title": "Grammy Award for Record of the Year",
+        "year": 2006,
+        "song": "Boulevard of Broken Dreams"
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/greenday",
+      "youtube": "https://youtube.com/greenday"
+    },
+    "official_website": "https://www.greenday.com"
+  }
+  

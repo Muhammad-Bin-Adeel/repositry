@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Rock",
+        "subcategories": [
+            { "id": 1.1, "name": "Alternative Rock" },
+            { "id": 1.2, "name": "Hard Rock" },
+            { "id": 1.3, "name": "Classic Rock" },
+            { "id": 1.4, "name": "Punk Rock" },
+            { "id": 1.5, "name": "Indie Rock" }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jazz",
+        "subcategories": [
+            { "id": 2.1, "name": "Smooth Jazz" },
+            { "id": 2.2, "name": "Bebop" },
+            { "id": 2.3, "name": "Swing" },
+            { "id": 2.4, "name": "Fusion" },
+            { "id": 2.5, "name": "Cool Jazz" }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Pop",
+        "subcategories": [
+            { "id": 3.1, "name": "Dance Pop" },
+            { "id": 3.2, "name": "Electropop" },
+            { "id": 3.3, "name": "Teen Pop" },
+            { "id": 3.4, "name": "Synth-pop" },
+            { "id": 3.5, "name": "Pop Rock" }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Rap",
+        "subcategories": [
+            { "id": 4.1, "name": "Gangsta Rap" },
+            { "id": 4.2, "name": "Trap" },
+            { "id": 4.3, "name": "Conscious Rap" },
+            { "id": 4.4, "name": "Alternative Hip-Hop" },
+            { "id": 4.5, "name": "Boom Bap" }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Classical",
+        "subcategories": [
+            { "id": 5.1, "name": "Baroque" },
+            { "id": 5.2, "name": "Romantic" },
+            { "id": 5.3, "name": "Contemporary Classical" },
+            { "id": 5.4, "name": "Chamber Music" },
+            { "id": 5.5, "name": "Opera" }
+        ]
+    }
+]

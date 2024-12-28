@@ -1,0 +1,77 @@
+{
+    "id": 5,
+    "name": "AC/DC",
+    "category": 1,
+    "subcategory": 1.2,
+    "genres": ["Hard Rock", "Blues Rock", "Heavy Metal"],
+    "origin": "Sydney, Australia",
+    "years_active": "1973-present",
+    "label": ["Albert Productions", "Atlantic Records", "Columbia Records"],
+    "image": "",
+    "members": [
+      {
+        "name": "Angus Young",
+        "role": "Lead guitar",
+        "date_of_birth": "1955-03-31"
+      },
+      {
+        "name": "Brian Johnson",
+        "role": "Lead vocals",
+        "date_of_birth": "1947-10-05"
+      },
+      {
+        "name": "Cliff Williams",
+        "role": "Bass guitar",
+        "date_of_birth": "1949-12-14"
+      },
+      {
+        "name": "Phil Rudd",
+        "role": "Drums",
+        "date_of_birth": "1954-05-19"
+      }
+    ],
+    "former_members": [
+      {
+        "name": "Malcolm Young",
+        "role": "Rhythm guitar",
+        "date_of_birth": "1953-01-06",
+        "date_of_death": "2017-11-18"
+      },
+      {
+        "name": "Bon Scott",
+        "role": "Lead vocals",
+        "date_of_birth": "1946-07-09",
+        "date_of_death": "1980-02-19"
+      }
+    ],
+    "discography": [
+      {
+        "title": "High Voltage",
+        "release_year": 1975,
+        "songs": ["It's a Long Way to the Top", "High Voltage", "T.N.T."]
+      },
+      {
+        "title": "Back in Black",
+        "release_year": 1980,
+        "songs": ["Hells Bells", "Shoot to Thrill", "Back in Black"]
+      },
+      {
+        "title": "The Razors Edge",
+        "release_year": 1990,
+        "songs": ["Thunderstruck", "Moneytalks", "Are You Ready"]
+      }
+    ],
+    "notable_awards": [
+      {
+        "title": "Grammy Award for Best Hard Rock Performance",
+        "year": 2010,
+        "song": "War Machine"
+      }
+    ],
+    "social_media": {
+      "twitter": "https://twitter.com/acdc",
+      "youtube": "https://youtube.com/acdc"
+    },
+    "official_website": "https://www.acdc.com"
+  }
+  

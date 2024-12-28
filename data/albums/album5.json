@@ -1,0 +1,191 @@
+{
+    "artist": {
+      "id": 5,
+      "name": "AC/DC",
+      "category": 1,
+      "subcategory": 1.2,
+      "albums": [
+        {
+          "albumId": 1,
+          "albumName": "High Voltage",
+          "releaseYear": 1975,
+          "image": "/images/albums/High Voltage.jpg",
+          "songs": [
+            "Baby, Please Don't Go",
+            "She's Got Balls",
+            "Little Lover",
+            "Stick Around",
+            "Soul Stripper",
+            "You Ain't Got a Hold on Me",
+            "Love Song",
+            "Show Business",
+            "High Voltage",
+            "Rock and Roll Singer"
+          ]
+        },
+        {
+          "albumId": 2,
+          "albumName": "T.N.T.",
+          "releaseYear": 1975,
+          "image": "/images/albums/Fly on the Wall.jpg",
+          "songs": [
+            "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+            "Rock 'n' Roll Singer",
+            "The Jack",
+            "Live Wire",
+            "T.N.T.",
+            "Can I Sit Next to You Girl",
+            "High Voltage",
+            "School Days",
+            "Show Business",
+            "Soul Stripper"
+          ]
+        },
+        {
+          "albumId": 3,
+          "albumName": "Dirty Deeds Done Dirt Cheap",
+          "releaseYear": 1976,
+          "image": "/images/albums/Dirty Deeds Done Dirt Cheap.jpg",
+          "songs": [
+            "Dirty Deeds Done Dirt Cheap",
+            "Ain't No Fun (Waiting 'Round to Be a Millionaire)",
+            "There's Gonna Be Some Rockin'",
+            "Problem Child",
+            "Squealer",
+            "Ride On",
+            "Jailbreak",
+            "Let There Be Rock",
+            "Big Balls",
+            "R.I.P. (Rock in Peace)"
+          ]
+        },
+        {
+          "albumId": 4,
+          "albumName": "Let There Be Rock",
+          "releaseYear": 1977,
+          "image": "/images/albums/Let There Be Rock.jpg",
+          "songs": [
+            "Go Down",
+            "Dog Eat Dog",
+            "Let There Be Rock",
+            "Bad Boy Boogie",
+            "Problem Child",
+            "Overdose",
+            "Let There Be Rock",
+            "Hell Ain't a Bad Place to Be",
+            "Whole Lotta Rosie",
+            "School Days"
+          ]
+        },
+        {
+          "albumId": 5,
+          "albumName": "Powerage",
+          "releaseYear": 1978,
+          "image": "/images/albums/Powerage.jpg",
+          "songs": [
+            "Rock 'n' Roll Damnation",
+            "Down Payment Blues",
+            "Gimme a Bullet",
+            "R.I.P. (Rock in Peace)",
+            "Sin City",
+            "What's Next to the Moon",
+            "Gone Shootin'",
+            "Up to My Neck in You",
+            "Kicked in the Teeth",
+            "If You Want Blood (You've Got It)"
+          ]
+        },
+        {
+          "albumId": 6,
+          "albumName": "If You Want Blood You've Got It",
+          "releaseYear": 1978,
+          "image": "/images/albums/If You Want Blood You've Got It.jpg",
+          "songs": [
+            "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+            "Bad Boy Boogie",
+            "Let There Be Rock",
+            "Rock 'n' Roll Singer",
+            "High Voltage",
+            "R.I.P. (Rock in Peace)",
+            "Gimme a Bullet",
+            "Whole Lotta Rosie",
+            "If You Want Blood (You've Got It)",
+            "You Shook Me All Night Long"
+          ]
+        },
+        {
+          "albumId": 7,
+          "albumName": "Highway to Hell",
+          "releaseYear": 1979,
+          "image": "/images/albums/Highway to Hell.jpg",
+          "songs": [
+            "Highway to Hell",
+            "Girls Got Rhythm",
+            "Walk All Over You",
+            "Touch Too Much",
+            "Beating Around the Bush",
+            "Shot Down in Flames",
+            "Get It Hot",
+            "If You Want Blood (You've Got It)",
+            "Love Hungry Man",
+            "Night Prowler"
+          ]
+        },
+        {
+          "albumId": 8,
+          "albumName": "Back in Black",
+          "releaseYear": 1980,
+          "image": "/images/albums/Back in Black.jpg",
+          "songs": [
+            "Hells Bells",
+            "Shoot to Thrill",
+            "What Do You Do for Money Honey",
+            "Givin' the Dog a Bone",
+            "Let Me Put My Love into You",
+            "Shoot to Thrill",
+            "Back in Black",
+            "You Shook Me All Night Long",
+            "Have a Drink on Me",
+            "Rock and Roll Ain't Noise Pollution"
+          ]
+        },
+        {
+          "albumId": 9,
+          "albumName": "For Those About to Rock We Salute You",
+          "releaseYear": 1981,
+          "image": "/images/albums/For Those About to Rock We Salute You.jpg",
+          "songs": [
+            "For Those About to Rock (We Salute You)",
+            "I Put the Finger on You",
+            "Let's Get It Up",
+            "Inject the Venom",
+            "Snowballed",
+            "Evil Walks",
+            "C.O.D.",
+            "Breaking the Rules",
+            "Night of the Long Knives",
+            "For Those About to Rock (We Salute You)"
+          ]
+        },
+        {
+          "albumId": 10,
+          "albumName": "Fly on the Wall",
+          "releaseYear": 1985,
+          "image": "/images/albums/Fly on the Wall.jpg",
+          "songs": [
+            "Fly on the Wall",
+            "Shake Your Foundations",
+            "First Blood",
+            "Danger",
+            "Stand Up",
+            "Hell or High Water",
+            "Getting Hot",
+            "Put the Finger on You",
+            "Back in Business",
+            "Send for the Man"
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,72 @@
+
+
+#album-1-1 {
+  background-image: url(https://random.imagecdn.app/500/500);
+}
+/* #album-1-2 {
+  background-image: url(./../images/albums/musician.jpg);
+}
+#album-1-3 {
+  background-image: url(./../images/albums/charlesdeluvio.jpg);
+} */
+
+#bar-nde{
+    position: absolute;
+    bottom: 20px;
+    width: calc(100% - 40px);
+}
+
+
+.horizontal-slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding: 1rem; /* Optional padding for aesthetics */
+}
+
+.horizontal-slider .album-box {
+  width: 33.33vw; /* Default width for larger screens */
+  height: 33.33vw;
+  flex: 0 0 auto; /* Prevent shrinking */
+  scroll-snap-align: start; /* Snap to the start of each item */
+  margin-right: 1rem; /* Space between slides */
+}
+
+/* Media query for screens smaller than 640px (mobile screens) */
+@media (max-width: 640px) {
+  .horizontal-slider .album-box {
+    width: 100vw; /* Full width for single-column layout */
+    height: 70vw; /* Adjust height automatically */
+    margin-right: 0; /* Remove margin between slides */
+  }
+}
+
+/* Media query for screens between 640px and 1024px (tablet and small desktop) */
+@media (min-width: 640px) and (max-width: 1024px) {
+  .horizontal-slider .album-box {
+    width: 50vw; /* Two-column layout for tablet */
+    height: 50vw;
+  }
+}
+
+/* Media query for larger screens */
+@media (min-width: 1024px) {
+  .horizontal-slider .album-box {
+    width: 33.33vw; /* Three-column layout for desktops */
+    height: 33.33vw;
+  }
+}
+
+/* Optional: Hide scrollbar for a cleaner look */
+.horizontal-slider::-webkit-scrollbar {
+  display: none;
+}
+
+
+.album-box {
+  width: 100%;
+  height: 33.33vw;
+  /* height: 360px; */
+  /* padding-bottom: 100%; */
+  background-color: blue;
+}
